@@ -1,0 +1,50 @@
+{
+   "checksum": "fde063c39b5eb5c7d0d6668b8013c141",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13139697452000000",
+            "date_last_used": "0",
+            "guid": "23631e6d-e8a1-4d47-8486-a880aadec7bd",
+            "id": "8",
+            "name": "The NeoSmart Files",
+            "show_icon": false,
+            "source": "import_fre",
+            "type": "url",
+            "url": "http://neosmart.net/blog/feed/"
+         } ],
+         "date_added": "13343663279845671",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13343663279845673",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13343663279845675",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCObymp+LAQAAEgAgASoYNlo2c2VQV0s5NklEcnpoUnByQkNudz09oAYMEqcBCAgSogEKHDZIbitTVGhNRkoxZ3N6MHBudW5ZT1MveFhVTT0SJDIzNjMxZTZkLWU4YTEtNGQ0Ny04NDg2LWE4ODBhYWRlYzdiZBgAIAAoADDkueSNqzE4rr3kjasxQK695I2rMUocTTdoTmJqVjVSRVgyVysveXFtRXQ3UGpIRUJjPVoeIhxWRnlJN0I1WDdXRktjVjhEeWcyMEpINjk2WDQ9ZQAAAAASiQEIARKEAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkMDE1M2VmZDItYWU3MS01YTNkLWE0ZWItM2ZkYmU4NzJiMmNkGAAgACgAMOispM6wMDibhKza7C9Am4Ss2uwvShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABKJAQgCEoQBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiRlNzgxOWQzMy1iYmNmLTVlYzktYjhjNS0xNDhmMjhhN2ZmOGUYACAAKAAw6KykzrAwOKqErNrsL0CqhKza7C9KHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEokBCAMShAEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJDJiYmU0MzM4LTVjM2QtNTE2ZC05YjBjLTI4NDYyNDM2ZmQ1OBgAIAAoADDorKTOsDA4+ISs2uwvQPiErNrsL0oceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAAwADgA",
+   "version": 1
+}
